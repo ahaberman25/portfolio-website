@@ -311,7 +311,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ffe4b4;
+			color: #CC0000;
 		}
 
 	strong, b {
@@ -1394,7 +1394,7 @@ input, select, textarea {
 			}
 
 		ul.contact-icons.color1 > li:before {
-			color: #726193;
+			color: #2364AA;
 		}
 
 		ul.contact-icons.color2 > li:before {
@@ -1632,7 +1632,7 @@ input, select, textarea {
 		.button.primary {
 			background-color: white;
 			box-shadow: none;
-			color: #2e2b37 !important;
+			color: #235789 !important;
 		}
 
 			input[type="submit"].primary.color1,
@@ -1640,7 +1640,7 @@ input, select, textarea {
 			input[type="button"].primary.color1,
 			button.primary.color1,
 			.button.primary.color1 {
-				color: #726193 !important;
+				color: #2364AA !important;
 			}
 
 			input[type="submit"].primary.color2,
@@ -1672,7 +1672,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #ffe4b4;
+				background-color: rgb(120, 201, 241);
 			}
 
 			input[type="submit"].primary:active,
@@ -2195,12 +2195,12 @@ input, select, textarea {
 		}
 
 			.panel > *.color0 {
-				background-image: url("../../images/overlay.png"), linear-gradient(45deg, #726193 20%, #e37b7c 60%, #ffe4b4);
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, #73BFB8 20%, #3DA5D9 60%, #235789);
 				background-size: 128px 128px, auto;
 			}
 
 			.panel > *.color1 {
-				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, #73BFB8 20%, #3DA5D9 60%, #235789);
 				background-size: 128px 128px, auto;
 				background-color: #726193;
 			}
@@ -2208,7 +2208,7 @@ input, select, textarea {
 			.panel > *.color2 {
 				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
 				background-size: 128px 128px, auto;
-				background-color: #e37b7c;
+				background-color: #235789;
 			}
 
 			.panel > *.color3 {
@@ -2218,9 +2218,9 @@ input, select, textarea {
 			}
 
 			.panel > *.color4 {
-				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, #73BFB8 20%, #3DA5D9 60%);
 				background-size: 128px 128px, auto;
-				background-color: #353865;
+				background-color: #235789;
 			}
 
 			.panel > *.color1-alt {
@@ -2717,7 +2717,7 @@ input, select, textarea {
 		}
 
 		.panel.color1 {
-			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+			background-image: url("../../images/overlay.png"), linear-gradient(45deg, #235789 20%, #3DA5D9 60%, #73BFB8);
 			background-size: 128px 128px, auto;
 			background-color: #726193;
 		}
@@ -2761,7 +2761,7 @@ input, select, textarea {
 		.panel.color4-alt {
 			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.175) 25%, rgba(227, 123, 124, 0.175) 50%, rgba(255, 228, 180, 0.175));
 			background-size: 128px 128px, auto;
-			background-color: #323459;
+			background-color: #235789;
 		}
 
 	@media screen and (max-width: 736px) {
@@ -2783,7 +2783,7 @@ input, select, textarea {
 			.panel > *.color2 {
 				background-image: url("../../images/overlay.png"), linear-gradient(135deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
 				background-size: 128px 128px, auto;
-				background-color: #e37b7c;
+				background-color: #235789;
 			}
 
 			.panel > *.color3 {
